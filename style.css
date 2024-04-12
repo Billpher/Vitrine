@@ -1,0 +1,12 @@
+#carousel img {
+    height: 92vh;
+}
+
+#quemSomos img {
+    justify-self: center;
+}
+
+#produtos .card img {
+    width: 100%;
+    height: 230px;
+}
